@@ -8,7 +8,7 @@ body {
 
 /* Menú de navegación */
 .menu-container {
-    background-color: #2c3e50;
+    background-color: #2090ff;
     padding: 1rem;
 }
 
@@ -44,7 +44,7 @@ body {
     position: absolute;
     top: 100%;
     left: 0;
-    background-color: #2c3e50;
+    background-color: #2090ff;
     list-style: none;
     padding: 0;
     margin: 0;
